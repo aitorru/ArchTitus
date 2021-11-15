@@ -27,11 +27,8 @@ PKGS=(
 'awesome-terminal-fonts'
 'brave-bin' # Brave Browser
 'dxvk-bin' # DXVK DirectX to Vulcan
-'github-desktop-bin' # Github Desktop sync
 'lightly-git'
 'lightlyshaders-git'
-'mangohud' # Gaming FPS Counter
-'mangohud-common'
 'nerd-fonts-fira-code'
 'nordic-darker-standard-buttons-theme'
 'nordic-darker-theme'
@@ -47,8 +44,15 @@ PKGS=(
 'ttf-hack'
 'ttf-meslo' # Nerdfont package
 'ttf-roboto'
-'zoom' # video conferences
+'cascadia-code'
+'visual-studio-code-bin'
 'snap-pac'
+'postman-bin' # Testing tool for apis
+'spotify'
+'zenity'
+'ffmpeg-compat-57'
+'motrix'
+'realvnc-vnc-viewer'
 )
 
 for PKG in "${PKGS[@]}"; do

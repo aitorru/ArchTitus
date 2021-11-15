@@ -69,6 +69,9 @@ PKGS=(
 'audiocd-kio' 
 'autoconf' # build
 'automake' # build
+'node'
+'rustc'
+'python'
 'base'
 'bash-completion'
 'bind'
@@ -84,7 +87,6 @@ PKGS=(
 'btrfs-progs'
 'celluloid' # video players
 'cmatrix'
-'code' # Visual Studio code
 'cronie'
 'cups'
 'dialog'
@@ -103,7 +105,6 @@ PKGS=(
 'fuseiso'
 'gamemode'
 'gcc'
-'gimp' # Photo editing
 'git'
 'gparted' # partition management
 'gptfdisk'
@@ -122,6 +123,7 @@ PKGS=(
 'kcoreaddons'
 'kdeplasma-addons'
 'kde-gtk-config'
+'kwallet-pam'
 'kinfocenter'
 'kscreen'
 'kvantum-qt5'
